@@ -1,0 +1,6 @@
+{
+  "name": "Juanita's Cleaning Service",
+  "description": "Premium, boutique residential cleaning service in Scottsdale, AZ. Personal, reliable, and thorough home care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
